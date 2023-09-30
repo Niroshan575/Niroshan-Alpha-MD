@@ -70,7 +70,7 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
@@ -83,9 +83,9 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'CRAWL' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'CRAWL'
 
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://youtube.com/@crawl_sl_yt'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtube.com/@crawl_sl_yt'
    
    //---------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg?raw=true'
       
    //---------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ global.APIKeys = {
 
    //--------------------- URL IMAGE  ------------------------
 
-   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.mainimgurl = 'https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg?raw=true'
       
    //---------------------------------------------------------------------
 
@@ -189,21 +189,21 @@ global.premium = [`${ownernum}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','.']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'CRAWL'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['94714184446']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'CRAWL' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'CRAWL-MD'
 //-------------
 global.icon = '✩' 
 //-------------
@@ -215,9 +215,9 @@ global.github = 'https://github.com/Alien-alfa/'
 //-------------
 global.insta = 'https://www.instagram.com/alienalfa/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = 'CRAWL'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'CRAWL' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -230,7 +230,7 @@ global.herokuapp = ''
 //============ Modz ============//
 
 //-------------
-global.welcomeactive =  true
+global.welcomeactive =  false
 //-------------
 global.alivemess = true
 //-------------
@@ -240,7 +240,7 @@ global.speedmode =  'active'
 //-------------
 global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ SINHALA'
 //-------------
-global.autoread = false 
+global.autoread = true 
 //-------------
 global.anticall = false 
 //-------------
